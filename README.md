@@ -1,4 +1,6 @@
-# AngularMaterialBlankProject
+# Angular Material Blank Project
+
+Basic starting point project to build up apps or examples using angular 6 and angular material.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 
